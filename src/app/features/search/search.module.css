@@ -1,0 +1,22 @@
+.input-search-container {
+  width: 100%;
+  position: relative;
+}
+
+.input-search-container-bottom-shadow {
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.9) 0px -2px 10px;
+  width: 85%;
+  height: 0.5px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+@media (min-width: 1024px) {
+  .input-search-container {
+    width: 800px;
+  }
+}

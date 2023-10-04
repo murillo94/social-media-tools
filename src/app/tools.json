@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Add emoji",
+    "url": "#",
+    "social": ["Instagram", "X"]
+  },
+  {
+    "id": "2",
+    "name": "Post formatting",
+    "url": "#",
+    "social": ["Instagram", "X"]
+  },
+  {
+    "id": "3",
+    "name": "Linkedin carousel",
+    "url": "#",
+    "social": ["Linkedin"]
+  },
+  {
+    "id": "4",
+    "name": "Post for you",
+    "url": "#",
+    "social": ["Instagram", "X"]
+  },
+  {
+    "id": "5",
+    "name": "Post score",
+    "url": "#",
+    "social": ["Instagram", "X", "Linkedin"]
+  },
+  {
+    "id": "6",
+    "name": "Content inspiration",
+    "url": "#",
+    "social": ["Instagram", "X", "Linkedin"]
+  },
+  {
+    "id": "7",
+    "name": "See more preview",
+    "url": "#",
+    "social": ["Linkedin", "X"]
+  },
+  {
+    "id": "8",
+    "name": "Save ideas as drafts",
+    "url": "#",
+    "social": ["Linkedin", "X"]
+  },
+  {
+    "id": "9",
+    "name": "Link in bio",
+    "url": "#",
+    "social": ["Instagram", "X", "Linkedin"]
+  }
+]
